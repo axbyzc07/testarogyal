@@ -1,4 +1,4 @@
 {
   "json_object":{"admob_inter":"ca-app-pub-3940256099942544/1033173712", "admob_native":"ca-app-pub-3940256099942544/2247696110", "admob_appopen": "ca-app-pub-3940256099942544/3419835294", "show_ads_counter":2},
-  "boolean":false
+  "boolean":true
 }
